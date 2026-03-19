@@ -29,7 +29,7 @@
 I used generative AI (CoPilot, ChatGPT) to help with the clarity of my visuals, for instance aiding my decision of which visualistions was optimal for  my case. As I had to make sure my findings could be understood by an audience. It also helped with my workflow as I had a mental block, so it helped provide steps and ways to explain my hypothesis.
 
 ## Ethical considerations
-* Were there any data privacy, bias or fairness issues with the data?
+# Were there any data privacy, bias or fairness issues with the data?
 
 * The project follows the principles of GDPR to ensure that data privacy is maintained throughout the analysis process.
 As there was no personal information used or needed for the analysis, alongside with the fact that all the possible customer identifiers were handled as anonymous. Also, the dataset was solely used for analytic purposes. 
