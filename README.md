@@ -9,6 +9,8 @@
 ## Business Requirements
 * My goal is to develop my previous analysis and show the purchasing trends/patterns that are being made from each country and to identify the most popular product. Which will help an audience understand overall how much is being spent per region. Also answering the question of what product and country bring in the most profit. 
 
+* I will also will be tackling the ethical components of not only analysing and proccessing this data (ETL,EDA,Data Visuals)
+
 ## Hypothesis and how to validate?
 * Sales are seasonal
 * The UK carries most of revenue
