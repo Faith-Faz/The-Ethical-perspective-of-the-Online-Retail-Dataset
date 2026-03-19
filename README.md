@@ -29,8 +29,15 @@
 I used generative AI (CoPilot, ChatGPT) to help with the clarity of my visuals, for instance aiding my decision of which visualistions was optimal for  my case. As I had to make sure my findings could be understood by an audience. It also helped with my workflow as I had a mental block, so it helped provide steps and ways to explain my hypothesis.
 
 ## Ethical considerations
-** Were there any data privacy, bias or fairness issues with the data?
-*
+* Were there any data privacy, bias or fairness issues with the data?
+
+* The project follows the principles of GDPR to ensure that data privacy is maintained throughout the analysis process.
+As there was no personal information used or needed for the analysis, alongside with the fact that all the possible customer identifiers were handled as anonymous. Also, the dataset was solely used for analytic purposes. 
+* This project involves the analysis of online retail transaction data to identify purchasing patterns and create insights that help us understand the data better. Although the dataset does not contain direct personal information that can be used to identify people ( example names or addresses) it includes customer related fields , like their CustomerID, which could potentially be linked to individuals if combined with other data sources.
+This dataset was used in a way that the analysis was conducted responsibly, which made it an ethical use of data. As I am focusing only on aggregated trends and patterns rather than individual behaviour. The project avoids any misuse of data that could impact customers or lead misleading conclusions.
+*  
+
+
 ## Development Roadmap
 * I faced quite a few challenges on the front end of this project that hindered me. I got past this by going back through the LMS and using external sources such as CoPilot and the Python.org page to get a more concrete understanding.
 
