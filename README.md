@@ -1,7 +1,10 @@
 # ![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
 
+## The Ethical perspective of the Online Retail Dataset 
+
+
 ## Dataset Content
-* The title of this dataset is Online Retail Transactions. This data includes the habits of customers purchasing from a online rertailer. Which includes their country,products and the quantity they brought.
+* The title of this dataset is Online Retail Transactions. This data includes the habits of customers purchasing from a online rertailer. Which includes their country,products and the quantity they brought. Also includes the ethics of the the dataset how it effected the way I handled the analysis.
 
 ## Business Requirements
 * My goal is to develop my previous analysis and show the purchasing trends/patterns that are being made from each country and to identify the most popular product. Which will help an audience understand overall how much is being spent per region. Also answering the question of what product and country bring in the most profit. 
