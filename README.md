@@ -35,7 +35,15 @@ I used generative AI (CoPilot, ChatGPT) to help with the clarity of my visuals, 
 As there was no personal information used or needed for the analysis, alongside with the fact that all the possible customer identifiers were handled as anonymous. Also, the dataset was solely used for analytic purposes. 
 * This project involves the analysis of online retail transaction data to identify purchasing patterns and create insights that help us understand the data better. Although the dataset does not contain direct personal information that can be used to identify people ( example names or addresses) it includes customer related fields , like their CustomerID, which could potentially be linked to individuals if combined with other data sources.
 This dataset was used in a way that the analysis was conducted responsibly, which made it an ethical use of data. As I am focusing only on aggregated trends and patterns rather than individual behaviour. The project avoids any misuse of data that could impact customers or lead misleading conclusions.
-*  
+
+# Dashboard Design
+## Dashboard contents
+* Visual Overview, Predictive Sales, Data Governance
+* The interactive dashboard was developed using Microsoft Power BI to clearly communicate key findings. These dashboard pages include visual elements such as scatter plots, bar charts, and summary metrics to highlight relationships between different factors such as price, quantity, and total transaction value.
+
+* The visualisations were designed to support storytelling  of the trends and patterns in sales data. While, allowing the user to filter and explore different aspects of the dataset. The dashboard also includes the visualisation of key performance indicators.
+
+
 
 
 # Development Roadmap
