@@ -17,10 +17,23 @@
 * Repeat customers spend more money
 * To validate this I will be using an array of analysis techniques and data visualisations.
 
-* * This includes data visualistions created using Matplotlib,Seaborn, Plotly and a dashboard created with PowerBi
+* This includes data visualistions created using Matplotlib,Seaborn, Plotly and a dashboard created with PowerBi
 
 # Project Plan
-* This project was completed using a Kanban board which broke down the following steps: Extraction Tranformation Loading. Plus the other steps such as EDA. ML model and creatign a dasboard
+## This project was completed in a way that the findings from the analysis were presented in a clear and structured manner to ensure it was accessible for both technical and non-technical users that may come across it.
+
+* The project followed a structured step by step that had the following stages:
+
+* Data Collection – Obtaining the retail dataset
+* Data Cleaning (ETL) – Handling missing values, correcting data types, and creating new features such as total transaction value
+* Exploratory Data Analysis (EDA) – Identifying trends and relationships between variables
+* Hypothesis Testing/Data Visualisation – Testing assumptions about pricing and purchasing behaviour and creating the corresponding charts for the dashboard.
+* Machine Learning Modelling – Developing a predictive model using Scikit-learn to estimate transaction values
+
+
+
+
+
 
 # Analysis techniques used
 * My project relies heavy on the descriptive analysis technique
@@ -39,9 +52,11 @@ This dataset was used in a way that the analysis was conducted responsibly, whic
 # Dashboard Design
 ## Dashboard contents
 * Visual Overview, Predictive Sales, Data Governance
-* The interactive dashboard was developed using Microsoft Power BI to clearly communicate key findings. These dashboard pages include visual elements such as scatter plots, bar charts, and summary metrics to highlight relationships between different factors such as price, quantity, and total transaction value.
+* The interactive dashboard was developed using Microsoft Power BI to clearly communicate key findings. These dashboard pages include visual elements such as scatter plots, bar charts, and summary metrics to highlight relationships between different factors such as price, quantity, and total transactions.
 
 * The visualisations were designed to support storytelling  of the trends and patterns in sales data. While, allowing the user to filter and explore different aspects of the dataset. The dashboard also includes the visualisation of key performance indicators.
+
+*
 
 
 
