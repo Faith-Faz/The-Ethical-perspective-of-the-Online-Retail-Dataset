@@ -72,4 +72,4 @@ As there was no personal information used or needed for the analysis, alongside 
 * The Online Retail Transaction dataset was exported from Kaggle.
 
 ## Acknowledgements
-* I want to thank Vasi, Mark and Niel. As they helped teach me the skills that has made me able to complete the project.
+* I want to thank Vasi, Mark, Niel and the Code Institute LMS. As they helped teach me the skills that has made me able to complete the project.
