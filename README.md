@@ -31,15 +31,12 @@
 * Machine Learning Modelling – Developing a predictive model using Scikit-learn to estimate transaction values
 
 
-
-
-
-
 # Analysis techniques used
 * My project relies heavy on the descriptive analysis technique
 * Did the data limit you, and did you use an alternative approach to meet these challenges? My dataset limited me with how big it was in its raw form (541909 rows x 8 cols). So the alternative approch I had to take was to analyse sample size data for each hypothesis
-* How did you use generative AI tools to help with ideation, design thinking and code optimisation?
-I used generative AI (CoPilot, ChatGPT) to help with the clarity of my visuals, for instance aiding my decision of which visualistions was optimal for  my case. As I had to make sure my findings could be understood by an audience. It also helped with my workflow as I had a mental block, so it helped provide steps and ways to explain my hypothesis.
+## How did you use generative AI tools to help with ideation, design thinking and code optimisation?
+* I used generative AI (CoPilot, ChatGPT) to help with the clarity of my visuals, for instance aiding my decision of which visualistions was optimal for  my case. As I had to make sure my findings could be understood by an audience. It also helped with my workflow as I had a mental block, so it helped provide steps and ways to explain my hypothesis.
+
 
 # Ethical considerations
 ## Were there any data privacy, bias or fairness issues with the data?
@@ -47,7 +44,7 @@ I used generative AI (CoPilot, ChatGPT) to help with the clarity of my visuals, 
 * The project follows the principles of GDPR to ensure that data privacy is maintained throughout the analysis process.
 As there was no personal information used or needed for the analysis, alongside with the fact that all the possible customer identifiers were handled as anonymous. Also, the dataset was solely used for analytic purposes. 
 * This project involves the analysis of online retail transaction data to identify purchasing patterns and create insights that help us understand the data better. Although the dataset does not contain direct personal information that can be used to identify people ( example names or addresses) it includes customer related fields , like their CustomerID, which could potentially be linked to individuals if combined with other data sources.
-This dataset was used in a way that the analysis was conducted responsibly, which made it an ethical use of data. As I am focusing only on aggregated trends and patterns rather than individual behaviour. The project avoids any misuse of data that could impact customers or lead misleading conclusions.
+* This dataset was used in a way that the analysis was conducted responsibly, which made it an ethical use of data. As I am focusing only on aggregated trends and patterns rather than individual behaviour. The project avoids any misuse of data that could impact customers or lead misleading conclusions.
 
 # Dashboard Design
 ## Dashboard contents
@@ -56,13 +53,11 @@ This dataset was used in a way that the analysis was conducted responsibly, whic
 
 * The visualisations were designed to support storytelling  of the trends and patterns in sales data. While, allowing the user to filter and explore different aspects of the dataset. The dashboard also includes the visualisation of key performance indicators.
 
-*
-
-
-
 
 # Development Roadmap
-* I faced quite a few challenges on the front end of this project that hindered me. I got past this by going back through the LMS and using external sources such as CoPilot and the Python.org page to get a more concrete understanding.
+* I faced multiple challenges while completing this project. One of these issues was simply the size of the dataset and handling it through the ETL process. Another issue was with creating my scatter plot for my PowerBi dashboard. Where an incorrect aggregation caused my visual to be unsatisfactory with limited data plots. I got past these problems by filtering alot of inconsistant data in the ETL stage and making sure I was putting in the right information so that the details I wanted display were clear. Alongside going back through the LMS and using external sources such as CoPilot and the Python.org page to get a more concrete understanding.
+
+* This project can be developed by having a more advanced machine learning model to improve predictive accuracy. Plus, I would also add to my dashboard to give it more advanced interactivity for users. 
 
 # Main Data Analysis Libraries
 * Numpy
